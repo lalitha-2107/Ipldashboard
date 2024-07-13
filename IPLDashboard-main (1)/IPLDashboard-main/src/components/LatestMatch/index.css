@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.latest-match-heading {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 18px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.card-container {
+  background-color: #1e293b;
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+.first-container {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.first-container-heading {
+  font-family: Bree Serif;
+  color: #ffffff;
+}
+
+.card-description {
+  font-family: Bree Serif;
+  color: #ffffff;
+  font-size: 15px;
+  margin-top: 10px;
+}

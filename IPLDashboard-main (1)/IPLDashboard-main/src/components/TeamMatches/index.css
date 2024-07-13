@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.team-matches-container-RCB {
+  background-image: linear-gradient(#a4261d, #1e293b);
+  background-size: cover;
+
+  padding: 20px;
+}
+.team-matches-container-KKR {
+  background-image: linear-gradient(#5755a7, #1e293b);
+  background-size: cover;
+
+  padding: 20px;
+}
+.team-matches-container-CSK {
+  background-image: linear-gradient(#f7db00, #ffffff);
+  background-size: cover;
+
+  padding: 20px;
+}
+.team-matches-container-RR {
+  background-image: linear-gradient(#da237b, #13418b);
+  background-size: cover;
+
+  padding: 20px;
+}
+.team-matches-container-MI {
+  background-image: linear-gradient(#13418b, #ffffff);
+  background-size: cover;
+
+  padding: 20px;
+}
+.team-matches-container-KXP {
+  background-image: linear-gradient(#a4261d, #1e293b);
+  background-size: cover;
+
+  padding: 20px;
+}
+.team-matches-container-SRH {
+  background-image: linear-gradient(#f26d22, #1e293b);
+  background-size: cover;
+
+  padding: 20px;
+}
+.team-matches-container-DD {
+  background-image: linear-gradient(#a4261d, #1e293b);
+  background-size: cover;
+
+  padding: 20px;
+}
+.team-image {
+  width: 100%;
+}
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
